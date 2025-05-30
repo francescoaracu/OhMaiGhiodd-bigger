@@ -1111,7 +1111,7 @@ https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear309-it-dash1-prd-
 
 #EXTINF:-1 tvg-id="dazn1.it" group-title="Sky;MPD",DAZN 1 (MPD)
 https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-024/stream.mpd&key_id=8ab47741930c476780515f9a00decb0a&key=7ab4b9ae5a48aa526e511a913b832769
-#EXTINF:-1 tvg-id="UEFA Women's Nations League - England vs Portugal" tvg-name="20:45 UEFA Women's Nations League : England vs Portugal - 30/05/25" tvg-logo="http://logos-download.com/wp-content/uploads/2016/05/England_national_football_team_logo_crest.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="UEFA Women's Nations League - England vs Portugal" tvg-name="20:45 UEFA Women's Nations League : England vs Portugal - 30/05/25" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/England_national_football_team_logo_crest.png" group-title="Calcio", SuperSport Premier League
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Brazil - Serie B - Vila Nova vs Novorizontino" tvg-name="00:00 Brazil - Serie B : Vila Nova vs Novorizontino - 30/05/25" tvg-logo="https://logodetimes.com/times/vila-nova/logo-vila-nova.png" group-title="Calcio", ESPN Brazil
@@ -1156,13 +1156,13 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Halys Q. vs Rune H." tvg-name="13:30 ATP - ROLAND GARROS : Halys Q. vs Rune H. - 30/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Halys%20Q._vs_Rune%20H..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Medjedovic H. vs Altmaier D." tvg-name="14:30 ATP - ROLAND GARROS : Medjedovic H. vs Altmaier D. - 30/05/25" tvg-logo="https://www.sofascore.com/static/images/flags/rs.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 14
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Medjedovic H. vs Altmaier D." tvg-name="14:30 ATP - ROLAND GARROS : Medjedovic H. vs Altmaier D. - 30/05/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2023/11/29/15/26/medjedovic_head_2023_november.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 14
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Medjedovic H. vs Altmaier D." tvg-name="14:30 ATP - ROLAND GARROS : Medjedovic H. vs Altmaier D. - 30/05/25" tvg-logo="https://www.sofascore.com/static/images/flags/rs.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 23
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Medjedovic H. vs Altmaier D." tvg-name="14:30 ATP - ROLAND GARROS : Medjedovic H. vs Altmaier D. - 30/05/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2023/11/29/15/26/medjedovic_head_2023_november.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 23
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Medjedovic H. vs Altmaier D." tvg-name="14:30 ATP - ROLAND GARROS : Medjedovic H. vs Altmaier D. - 30/05/25" tvg-logo="https://www.sofascore.com/static/images/flags/rs.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 34
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Medjedovic H. vs Altmaier D." tvg-name="14:30 ATP - ROLAND GARROS : Medjedovic H. vs Altmaier D. - 30/05/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2023/11/29/15/26/medjedovic_head_2023_november.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 34
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Shelton B. vs Gigante M." tvg-name="14:30 ATP - ROLAND GARROS : Shelton B. vs Gigante M. - 30/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Shelton%20B._vs_Gigante%20M..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 3
@@ -1324,10 +1324,10 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Sramkova R./Tomova V. vs Joint M./Kalashnikova O." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Sramkova R./Tomova V. vs Joint M./Kalashnikova O. - 30/05/25" tvg-logo="https://cdn.sportstat.io/base/images/competitors/RHNCBkglwN2XPg1bSbzWGFYvKpvC5UuGMksEckIl.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 27
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Wang Xin./Zheng S. vs Eikeri U./Hozumi E." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Wang Xin./Zheng S. vs Eikeri U./Hozumi E. - 30/05/25" tvg-logo="https://isaham.sgp1.digitaloceanspaces.com/stock_logo/WANGZNG.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 9
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Wang Xin./Zheng S. vs Eikeri U./Hozumi E." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Wang Xin./Zheng S. vs Eikeri U./Hozumi E. - 30/05/25" tvg-logo="https://xpic.x-mol.com/20220516%2F1652683579920.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 9
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Wang Xin./Zheng S. vs Eikeri U./Hozumi E." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Wang Xin./Zheng S. vs Eikeri U./Hozumi E. - 30/05/25" tvg-logo="https://isaham.sgp1.digitaloceanspaces.com/stock_logo/WANGZNG.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 29
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Wang Xin./Zheng S. vs Eikeri U./Hozumi E." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Wang Xin./Zheng S. vs Eikeri U./Hozumi E. - 30/05/25" tvg-logo="https://xpic.x-mol.com/20220516%2F1652683579920.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 29
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Fernandez L./Putintseva Y. vs Mihalikova T./Nicholls O." tvg-name="12:30 WTA DOUBLES - ROLAND GARROS : Fernandez L./Putintseva Y. vs Mihalikova T./Nicholls O. - 30/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Nicholls%20O..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 9
@@ -1336,10 +1336,10 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Fernandez L./Putintseva Y. vs Mihalikova T./Nicholls O." tvg-name="12:30 WTA DOUBLES - ROLAND GARROS : Fernandez L./Putintseva Y. vs Mihalikova T./Nicholls O. - 30/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Nicholls%20O..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 29
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Siniakova K./Townsend T. vs Burrage J./Kartal S." tvg-name="12:30 WTA DOUBLES - ROLAND GARROS : Siniakova K./Townsend T. vs Burrage J./Kartal S. - 30/05/25" tvg-logo="https://images.justwatch.com/icon/318288980/s166/peyton-stearns.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 12
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Siniakova K./Townsend T. vs Burrage J./Kartal S." tvg-name="12:30 WTA DOUBLES - ROLAND GARROS : Siniakova K./Townsend T. vs Burrage J./Kartal S. - 30/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Kartal%20S..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 12
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Siniakova K./Townsend T. vs Burrage J./Kartal S." tvg-name="12:30 WTA DOUBLES - ROLAND GARROS : Siniakova K./Townsend T. vs Burrage J./Kartal S. - 30/05/25" tvg-logo="https://images.justwatch.com/icon/318288980/s166/peyton-stearns.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 32
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Siniakova K./Townsend T. vs Burrage J./Kartal S." tvg-name="12:30 WTA DOUBLES - ROLAND GARROS : Siniakova K./Townsend T. vs Burrage J./Kartal S. - 30/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Kartal%20S..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 32
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Garcia C./Parry D. vs Ninomiya M./Tang Q." tvg-name="14:00 WTA DOUBLES - ROLAND GARROS : Garcia C./Parry D. vs Ninomiya M./Tang Q. - 30/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Tang%20Q..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 7
@@ -1348,10 +1348,10 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Garcia C./Parry D. vs Ninomiya M./Tang Q." tvg-name="14:00 WTA DOUBLES - ROLAND GARROS : Garcia C./Parry D. vs Ninomiya M./Tang Q. - 30/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Tang%20Q..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 27
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Lumsden M./Santamaria S. vs Andreeva M./Shnaider D." tvg-name="14:00 WTA DOUBLES - ROLAND GARROS : Lumsden M./Santamaria S. vs Andreeva M./Shnaider D. - 30/05/25" tvg-logo="https://s3.amazonaws.com/s3.travelsports.com/clubs/logos/Tx3mekOyNPTjDx47BqDR_1619738649_lg.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 6
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Lumsden M./Santamaria S. vs Andreeva M./Shnaider D." tvg-name="14:00 WTA DOUBLES - ROLAND GARROS : Lumsden M./Santamaria S. vs Andreeva M./Shnaider D. - 30/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Shnaider%20D..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 6
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Lumsden M./Santamaria S. vs Andreeva M./Shnaider D." tvg-name="14:00 WTA DOUBLES - ROLAND GARROS : Lumsden M./Santamaria S. vs Andreeva M./Shnaider D. - 30/05/25" tvg-logo="https://s3.amazonaws.com/s3.travelsports.com/clubs/logos/Tx3mekOyNPTjDx47BqDR_1619738649_lg.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 26
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Lumsden M./Santamaria S. vs Andreeva M./Shnaider D." tvg-name="14:00 WTA DOUBLES - ROLAND GARROS : Lumsden M./Santamaria S. vs Andreeva M./Shnaider D. - 30/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Shnaider%20D..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 26
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Danilovic O./Potapova A. vs Eala A./Zarazua R." tvg-name="16:00 WTA DOUBLES - ROLAND GARROS : Danilovic O./Potapova A. vs Eala A./Zarazua R. - 30/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Zarazua%20R..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 6
@@ -1378,10 +1378,10 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Wu F./Verbeek S. vs Andrianjafitrimo T./Humbert U." tvg-name="14:00 MIXED DOUBLES - ROLAND GARROS : Wu F./Verbeek S. vs Andrianjafitrimo T./Humbert U. - 30/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Humbert%20U..png" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 28
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Kichenok L./Pavic M. vs Kato M./Puetz T." tvg-name="15:30 MIXED DOUBLES - ROLAND GARROS : Kichenok L./Pavic M. vs Kato M./Puetz T. - 30/05/25" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2019/10/08/91f66561-592a-4d64-aa28-18062805a7ae/exvxqNQQ.png?width=950" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 9
+#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Kichenok L./Pavic M. vs Kato M./Puetz T." tvg-name="15:30 MIXED DOUBLES - ROLAND GARROS : Kichenok L./Pavic M. vs Kato M./Puetz T. - 30/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Puetz%20T..png" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 9
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Kichenok L./Pavic M. vs Kato M./Puetz T." tvg-name="15:30 MIXED DOUBLES - ROLAND GARROS : Kichenok L./Pavic M. vs Kato M./Puetz T. - 30/05/25" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2019/10/08/91f66561-592a-4d64-aa28-18062805a7ae/exvxqNQQ.png?width=950" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 29
+#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Kichenok L./Pavic M. vs Kato M./Puetz T." tvg-name="15:30 MIXED DOUBLES - ROLAND GARROS : Kichenok L./Pavic M. vs Kato M./Puetz T. - 30/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Puetz%20T..png" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 29
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Melichar-Martinez/Harrison C. vs Jeanjean L./Guinard M." tvg-name="15:30 MIXED DOUBLES - ROLAND GARROS : Melichar-Martinez/Harrison C. vs Jeanjean L./Guinard M. - 30/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Guinard%20M..png" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 7
@@ -1903,13 +1903,13 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="Beach Volleyball - Pro Tour" tvg-name="08:00 Beach Volleyball: Pro Tour - 30/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub HD Croatia
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Friendly International - Germany vs Ukraine" tvg-name="16:00 Friendly International : Germany vs Ukraine - 30/05/25" tvg-logo="http://logos-download.com/wp-content/uploads/2016/05/Germany_national_football_team_logo_Deutscher_Fussball-Bund.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Friendly International - Germany vs Ukraine" tvg-name="16:00 Friendly International : Germany vs Ukraine - 30/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/germany-logo-png-transparent.png" group-title="Pallavolo", Polsat Sport 1 Poland
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="European Golden League Women - Romania vs. Portugal" tvg-name="18:00 European Golden League Women : Romania vs. Portugal - 30/05/25" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/016/328/515/small/romania-flat-rounded-flag-icon-with-transparent-background-free-png.png" group-title="Pallavolo", Sport TV2 Portugal
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-74.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="European Golden League Women - Romania vs. Portugal" tvg-name="18:00 European Golden League Women : Romania vs. Portugal - 30/05/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/328/515/non_2x/romania-flat-rounded-flag-icon-with-transparent-background-free-png.png" group-title="Pallavolo", Arena Sport 4 Croatia
+#EXTINF:-1 tvg-id="European Golden League Women - Romania vs. Portugal" tvg-name="18:00 European Golden League Women : Romania vs. Portugal - 30/05/25" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/016/328/515/small/romania-flat-rounded-flag-icon-with-transparent-background-free-png.png" group-title="Pallavolo", Arena Sport 4 Croatia
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-580.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="European Golden League Women - Hungary vs. Azerbaijan" tvg-name="18:00 European Golden League Women : Hungary vs. Azerbaijan - 30/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Hungary_vs_Azerbaijan.png" group-title="Pallavolo", Duna World Hungary
